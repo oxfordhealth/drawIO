@@ -1,3 +1,4 @@
 <templates>
-  <template section="EMIS" url="https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/EMISTemplate.drawio" title="EMIS Form" libs="emis-form" />
+  <template section="EMIS" url="https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/Templates/EMISTemplate.drawio" title="EMIS Form" libs="emis-form" />
+  <template section="EMIS" url="https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/Templates/EMISProtocolTemplate.drawio" title="EMIS Protocol/Concept" libs="emis-protocol" />
 </templates>
