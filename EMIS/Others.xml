@@ -54,5 +54,19 @@
     "h": 40,
     "aspect": "fixed",
     "title": "Mandatory"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"pointerEvents=1;shadow=0;html=1;strokeColor=default;fillColor=#FF0000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=stencil(tVldd9sgDP01eeUAwoAfu2z7H1nirjlN7Z4k/ci/H45tYaRstYl3Tp8uteBKupIgK1ifnjav1UrLzem12p5X8H2l9fvmuN/8OgRYh5WnDjQgig6oNy9Vhz3sdsfqdArYt6Z57lZP52PzXH3sd+f+w339VB335271o8MKI9zVGvxYyYeAt3+w3jZ1HU6xb+rTFftJ1h+bY/X72LzVu2RhWH7dtHuyhWH5pXlvmX72R9ADn0sHgBkAunFq5rCv/2VGl0L7KXa2b8fuPIpa+tQ9okSpewgQkrbfr/9Oe2H6DS/9h9oJZ3oIGDSLnhSa8FvKEBSiLLMMlS7P0A2PS01cHoMALMCK7Tc4PECyTB0+NZ22h+ZUfflfJHeZM5XNSt6QTS7LDnOlEt7Md2XcbvCkKoRzqScDJJdQZinccsL0N4QJKTmP6h3I+Rg2oMh9YppqJyvbmHJdTrKpUoDPskMDopWwZRoRDcLbNCLh3IUiynU03cDHsPXfGZnDbrwbhsRmsYuWRuwMyTcdUsCl7Ar0CvYBoWkbQGQOOdt369gEJpqh3Cx+h1LC5EIlxXRTjAYSsyolBqjI/yAA1uPD+DIptl9UpCCJAhYrSRNmBeWFg9SVysVuBgy6ryotZmiUOPfNCq2hvAaXNyuM9sPcLQRQVU7Np5zsDYXIJj6Ik/ysAmei5ubZYQXOCMULHFZ0QMiQ8h02NKTCBWiYtrF+66wBFVJuU41Qckpo0ppkyksSTnEj5KRYgkAp/KRCkXKSCScvsmqNTOkoUbiUERl7rACXEirY2FNkjT1piABL2Tw+kPKJ0hv4jLqdopwvaVAvaVBn6UkKSAlNMsLEBEJ5IqYi5uAgJisMmRYkDtXYCXCEmt1U6aHClZT0Jwg+NOmhAOiJqLrDGdXdjjZW2AUcbUIZpT1X8uFFsulFUi87T708FNb7mmSeqMKUYF2WHdYiAUsZesigltBDhsmrYD3SxqsTXpTUpMsbIWfo5ArZt8ARFY2EKbkQ3TIl11ZzlbIb1/z7mla40/qUX3bjCqYKm/Jrn7JUSnA0TMSmrCzhh35BelNHhYz5JghTpoMJTJ2muMQlGUyME0Dag+G1VLObvmYtT+e1PM0m2Ex1ts8fRJ2jpzyM7+jlUDEq2DJLUsKcMDnZO9qstzzx7n2DHPCGI4k6IV6j8UXAsxcBFy/yEKGMvrPMY4eJLxSYlKM8BbLZ6N5BVNk+o7FL8xLXDlgH/C9v77B+3B8O3W8CNwxcP2Wv+le0+2HiCvwB);aspect=fixed;strokeWidth=1;gradientColor=none;perimeterSpacing=0;fillStyle=auto;labelBorderColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"40\" height=\"32\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 32,
+    "aspect": "fixed",
+    "title": "Library Item"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#0000CC;shape=mxgraph.azure.automation;pointerEvents=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"40\" height=\"36\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 36,
+    "aspect": "fixed",
+    "title": "Trigger"
   }
 ]</mxlibrary>
