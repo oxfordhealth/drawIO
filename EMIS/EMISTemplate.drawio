@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T15:12:14.274Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="rVaZoLIk3VPUOKazFUWq" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-22T14:13:28.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="JotD5PNp30GzO8ReOhIh" version="23.1.5" type="github">
   <diagram name="Page 1" id="IdJF57ZcMdkUgBLRM6Qn">
-    <mxGraphModel dx="2029" dy="1100" grid="1" gridSize="40" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1520" pageHeight="5000" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="1307" grid="1" gridSize="40" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="5000" background="none" math="0" shadow="0">
       <root>
         <object label="" formName="Template" author="Curtis Reet" mobile="Yes/No" id="0">
           <mxCell />
@@ -8,7 +8,7 @@
         <mxCell id="1" parent="0" />
         <object label="" tooltip="&lt;b&gt;fieldType:&lt;/b&gt; %fieldType%" placeholders="1" fieldType="FormMaster" id="MeSqUqDjV39xURzECte_-1">
           <mxCell style="fontFamily=Tahoma;group;movable=0;resizable=0;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;recursiveResize=0;" parent="1" vertex="1" connectable="0">
-            <mxGeometry width="1520" height="200" as="geometry" />
+            <mxGeometry width="1440" height="200" as="geometry" />
           </mxCell>
         </object>
         <object label="" tooltip="&lt;b&gt;fieldType:&lt;/b&gt; %fieldType%" placeholders="1" id="TwPZSNBdaBiCKJOaZcf1-34">
@@ -168,7 +168,7 @@
         </object>
         <object placeholder="formName" placeholders="1" label="Template" id="TwPZSNBdaBiCKJOaZcf1-37">
           <mxCell style="fontFamily=Tahoma;text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;" parent="MeSqUqDjV39xURzECte_-1" vertex="1">
-            <mxGeometry x="1240" width="280" height="40" as="geometry" />
+            <mxGeometry x="1240" width="200" height="40" as="geometry" />
           </mxCell>
         </object>
         <object label="Page Name:" tooltip="&lt;b&gt;fieldType:&lt;/b&gt; %fieldType%" placeholders="1" id="TwPZSNBdaBiCKJOaZcf1-38">
@@ -178,7 +178,7 @@
         </object>
         <object placeholders="1" label="%page%" id="TwPZSNBdaBiCKJOaZcf1-39">
           <mxCell style="fontFamily=Tahoma;text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="MeSqUqDjV39xURzECte_-1" vertex="1">
-            <mxGeometry x="1240" y="40" width="280" height="40" as="geometry" />
+            <mxGeometry x="1240" y="40" width="200" height="40" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font color=&quot;#ffffff&quot;&gt;Patient, XXTest (Unknown)&lt;/font&gt;" tooltip="&lt;b&gt;fieldType:&lt;/b&gt; %fieldType%" placeholders="1" id="z5nmdul99bLV8xO7L-LQ-2">
@@ -243,7 +243,7 @@
         </object>
         <object placeholder="author" placeholders="1" id="Pp4qKzhGQ8vHZ0xazVb3-1034">
           <mxCell style="fontFamily=Tahoma;text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;" parent="MeSqUqDjV39xURzECte_-1" vertex="1">
-            <mxGeometry x="1240" y="80" width="280" height="40" as="geometry" />
+            <mxGeometry x="1240" y="80" width="200" height="40" as="geometry" />
           </mxCell>
         </object>
         <object label="Mobile:" tooltip="&lt;b&gt;fieldType:&lt;/b&gt; %fieldType%" placeholders="1" id="U6L3AmuIjdlOFIYLOf1O-3">
@@ -253,7 +253,7 @@
         </object>
         <object placeholder="mobile" placeholders="1" label="Yes/No" id="U6L3AmuIjdlOFIYLOf1O-4">
           <mxCell style="fontFamily=Tahoma;text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;" parent="MeSqUqDjV39xURzECte_-1" vertex="1">
-            <mxGeometry x="1240" y="118" width="280" height="40" as="geometry" />
+            <mxGeometry x="1240" y="118" width="200" height="40" as="geometry" />
           </mxCell>
         </object>
         <object label="" fieldType="Section" id="0dErxD7qmgPHcpw-KyX1-1">
