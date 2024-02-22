@@ -1,0 +1,106 @@
+{
+  "version": "0.0.1",
+  "defaultLibraries": [],
+  "enabledLibraries": ["general","basic","arrows2","flowchart"],
+  "templateFile":"https://raw.githubusercontent.com/oxfordhealth/drawIO/main/templates.xml",
+  "sidebarTitles":true,
+  "libraries": [
+    {
+      "title": {
+        "main": "Oxford Health"
+      },
+      "entries": [
+        {
+          "id": "emis-form",
+          "title": {
+            "main": "EMIS Form Libraries"
+          },
+          "desc": {
+            "main": "Standard EMIS Form Building Libraries"
+          },
+          "libs": [
+            {
+              "title": {
+                "main": "Clinical Code"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Clinical%20Code.xml"
+            },
+            {
+              "title": {
+                "main": "Diary Entry"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Diary%20Entry.xml"
+            },
+            {
+              "title": {
+                "main": "Predefined Text"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Predefined%20Text.xml"
+            },
+            {
+              "title": {
+                "main": "Pick List"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Pick%20List.xml"
+            },
+            {
+              "title": {
+                "main": "Multiselect"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Multiselect.xml"
+            },
+            {
+              "title": {
+                "main": "Text Information"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Text%20Information.xml"
+            },
+            {
+              "title": {
+                "main": "Others"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Others.xml"
+            },
+            {
+              "title": {
+                "main": "Pins"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Pins.drawio"
+            }
+          ]
+        },
+        {
+          "id": "emis-protocol",
+          "title": {
+            "main": "EMIS Protocol/Concept Libraries"
+          },
+          "desc": {
+            "main": "Standard EMIS Protocol/Concept Libraries"
+          },
+          "libs": [
+          ]
+        },
+        {
+          "id": "rio",
+          "title": {
+            "main": "Rio Libraries"
+          },
+          "desc": {
+            "main": "Standard Rio Libraries"
+          },
+          "libs": []
+        },
+        {
+          "id": "tc",
+          "title": {
+            "main": "True Colours Libraries"
+          },
+          "desc": {
+            "main": "Standard True Colours Libraries"
+          },
+          "libs": []
+        }
+      ]
+    }
+  ]
+}
