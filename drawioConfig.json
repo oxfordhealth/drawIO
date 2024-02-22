@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "defaultLibraries": [],
   "enabledLibraries": ["general","basic","arrows2","flowchart"],
   "templateFile":"https://raw.githubusercontent.com/oxfordhealth/drawIO/main/templates.xml",
@@ -78,6 +78,18 @@
             "main": "Standard EMIS Protocol/Concept Libraries"
           },
           "libs": [
+            {
+              "title": {
+                "main": "Basic"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FlowchartControls/Basic.xml"
+            },
+            {
+              "title": {
+                "main": "Pins"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Pins.drawio"
+            }
           ]
         },
         {
