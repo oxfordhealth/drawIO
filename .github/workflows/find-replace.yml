@@ -6,13 +6,14 @@ on:
     branches:
       - 'main'
 jobs: 
-  build:
-    if: github.event.pull_request.merged == true
+  find-replace:
     runs-on: ubuntu-latest
+    if:  startsWith(github.head_ref, 'releases/')
     steps:
-      - uses: actions/checkout@main
-      - name: Find and Replace
-        uses: thiagodnf/string-replacer@v1.0.2
+      - name: Replacements
+        uses: flcdrg/replace-multiple-action@v1
         with:
-          find: "oxfordhealth/drawIO/dev"
-          replace: "oxfordhealth/drawIO/main"
+          find: ${{ steps.wayback.outputs.replacements }}
+          prefix: '(^|\\s+|\\()'
+          suffix: '($|\\s+|\\))'
+          
