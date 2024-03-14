@@ -45,6 +45,12 @@
             },
             {
               "title": {
+                "main": "Pick List 2"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Pick%20List%202"
+            },
+            {
+              "title": {
                 "main": "Multiselect"
               },
               "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Multiselect.xml"
