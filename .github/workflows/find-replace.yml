@@ -10,10 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     if: github.event.pull_request.merged == true
     steps:
+      - name: Branch name
+        run: echo running on branch ${GITHUB_REF##*/}
       - name: Replacements
         uses: flcdrg/replace-multiple-action@v1
         with:
           files: '/*'
-          find: '[{ "find": "oxfordhealth/drawIO/dev", "replace": "oxfordhealth/drawIO/main" }]'
+          find: '[{ "find": "devBranch", "replace": "${GITHUB_REF##*/}" }]'
           prefix: ''
           suffix: ''
