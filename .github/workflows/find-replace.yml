@@ -11,4 +11,4 @@ jobs:
     if: github.event.pull_request.merged == true
     steps:
       - name: Replace config
-        run: sed -i 's/devBranch/main/' drawioConfig.json
+        run: find . -name 'drawioConfig.json' -exec sed -i 's/devBranch/main/' '{}' \;
