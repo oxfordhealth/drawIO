@@ -12,4 +12,4 @@ jobs:
     steps:
       - name: Replace config
         run: |
-          find .-name "*" -exec sed -i 's/devBranch/main/' input_file
+          find .-name "*" -exec sed -i 's/devBranch/main/' drawioConfig.json
