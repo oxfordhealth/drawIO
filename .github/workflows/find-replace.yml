@@ -12,16 +12,8 @@ jobs:
     #if: github.event.pull_request.merged == true
     steps:
       - name: checkout repo
-        uses: actions/checkout@latest
+        uses: actions/checkout@v4
       - name: Test1
-        run: ls ./
-      - name: Test2
-        run: ls ../
-      - name: Test3
-        run: ls ../../
-      - name: Test4
-        run: ls ../../../
-      - name: Test5
-        run: ls /
+        run: ls
       #- name: Replace config
       #  run: sed -i 's/devBranch/main/' /drawioConfig.json;
