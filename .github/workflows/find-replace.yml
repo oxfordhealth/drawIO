@@ -11,9 +11,9 @@ jobs:
     if: github.event.pull_request.merged == true
     steps:
       - name: Replacements
-        uses: flcdrg/replace-multiple-action@v1
+        uses: flcdrg/replace-multiple-action@latest
         with:
-          files: '**/*.json'
+          files: './*.json'
           find: '[{ "find": "devBranch", "replace": "main" }]'
           prefix: ''
           suffix: ''
