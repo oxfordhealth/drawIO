@@ -13,7 +13,7 @@ jobs:
       - name: Replacements
         uses: flcdrg/replace-multiple-action@v1
         with:
-          files: '**/*'
+          files: './templates.xml'
           find: '[{ "find": "https://raw.githubusercontent.com/oxfordhealth/drawIO/dev/", "replace": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/" }]'
           prefix: ''
           suffix: ''
