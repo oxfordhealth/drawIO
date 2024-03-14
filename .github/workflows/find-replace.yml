@@ -11,7 +11,15 @@ jobs:
     runs-on: ubuntu-latest
     #if: github.event.pull_request.merged == true
     steps:
-      - name: Test
+      - name: Test1
+        run: ls ./
+      - name: Test2
+        run: ls ../
+      - name: Test3
         run: ls ../../
+      - name: Test4
+        run: ls ../../../
+      - name: Test5
+        run: ls /
       #- name: Replace config
       #  run: sed -i 's/devBranch/main/' /drawioConfig.json;
