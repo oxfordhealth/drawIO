@@ -13,8 +13,6 @@ jobs:
     steps:
       - name: checkout repo
         uses: actions/checkout@v4
-      - name: Test1
-        run: ls
       - name: Replace config strings
         uses: flcdrg/replace-multiple-action@latest
         with:
