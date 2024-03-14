@@ -57,6 +57,12 @@
             },
             {
               "title": {
+                "main": "Miscellaneous Fields"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/FormControls/Miscellaneous%20Fields.xml"
+            },
+            {
+              "title": {
                 "main": "Others"
               },
               "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Others.xml"
@@ -100,7 +106,44 @@
           "desc": {
             "main": "Standard Rio Libraries"
           },
-          "libs": []
+          "libs": [
+            {
+              "title": {
+                "main": "2x Column Field"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Fields/Rio%202xColumn%20Form%20Fields.drawio"
+            },
+            {
+              "title": {
+                "main": "4x Column Field"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Fields/Rio%204xColumn%20Form%20Fields.drawio"
+            },
+            {
+              "title": {
+                "main": "6x Column Field"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Fields/Rio%206xColumn%20Form%20Fields.drawio"
+            },
+            {
+              "title": {
+                "main": "8x Column Field"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Fields/Rio%208xColumn%20Form%20Fields.drawio"
+            },
+            {
+              "title": {
+                "main": "Window Items"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Fields/Window%20Items.drawio"
+            },
+            {
+              "title": {
+                "main": "Pins"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Pins.drawio"
+            }
+          ]
         },
         {
           "id": "tc",
