@@ -1,0 +1,15 @@
+name: Find-Replace
+on:
+  push:
+    branches:
+      - 'main'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@main
+      - name: Find and Replace
+        uses: thiagodnf/string-replacer@v1.0.2
+        with:
+          find: "https://raw.githubusercontent.com/oxfordhealth/drawIO/dev/"
+          replace: "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/"
