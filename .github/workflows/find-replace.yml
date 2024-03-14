@@ -13,7 +13,4 @@ jobs:
       - name: Replacements
         uses: flcdrg/replace-multiple-action@v1
         with:
-          find: ${{ steps.wayback.outputs.replacements }}
-          prefix: '(^|\\s+|\\()'
-          suffix: '($|\\s+|\\))'
-          
+          find: '[{ "find": "oxfordhealth/drawIO/dev/", "replace": "oxfordhealth/drawIO/main/"}]'
