@@ -7,12 +7,9 @@ on:
       - 'main'
 jobs: 
   build:
-    if: github.event.pull_request.merged == true
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@main
-      - name: Find and Replace
-        uses: thiagodnf/string-replacer@v1.0.2
-        with:
-          find: "oxfordhealth/drawIO/dev"
-          replace: "oxfordhealth/drawIO/main"
+    name: Replace string in file
+    uses: MathieuSoysal/replace-string-in-file@v1.0.0
+    with:
+      file: /drawioConfig.json
+      old-string: 'oxfordhealth/drawIO/dev/'
+      new-string: 'oxfordhealth/drawIO/main/'
