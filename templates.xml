@@ -1,5 +1,5 @@
 <templates>
-  <template section="EMIS" url="https://raw.githubusercontent.com/oxfordhealth/drawIO/$1main$2/EMIS/Templates/EMISTemplate.drawio" title="EMIS Form" libs="emis-form" />
-  <template section="EMIS" url="https://raw.githubusercontent.com/oxfordhealth/drawIO/$1main$2/EMIS/Templates/EMISProtocolTemplate.drawio" title="EMIS Protocol/Concept" libs="emis-protocol" />
-  <template section="Rio" url="https://raw.githubusercontent.com/oxfordhealth/drawIO/$1main$2/Rio/Templates/RioTemplate.drawio" title="Rio Form" libs="rio" />
+  <template section="EMIS" url="https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/Templates/EMISTemplate.drawio" title="EMIS Form" libs="emis-form" />
+  <template section="EMIS" url="https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/Templates/EMISProtocolTemplate.drawio" title="EMIS Protocol/Concept" libs="emis-protocol" />
+  <template section="Rio" url="https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Templates/RioTemplate.drawio" title="Rio Form" libs="rio" />
 </templates>
