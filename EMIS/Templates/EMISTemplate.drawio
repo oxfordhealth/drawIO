@@ -1,8 +1,8 @@
-<mxfile host="app.diagrams.net" modified="2024-02-22T14:13:28.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="JotD5PNp30GzO8ReOhIh" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T12:48:42.715Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="zTIb4v6lgCLWPyUOBaT9" version="24.0.6" type="device">
   <diagram name="Page 1" id="IdJF57ZcMdkUgBLRM6Qn">
-    <mxGraphModel dx="2390" dy="1307" grid="1" gridSize="40" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="5000" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="784" grid="1" gridSize="40" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="5000" background="none" math="0" shadow="0">
       <root>
-        <object label="" formName="Template" author="Curtis Reet" mobile="Yes/No" id="0">
+        <object label="" formName="Template" author="Curtis Reet" mobile="Yes/No" dynamicContentMode="Pending and Stored Data/Pending Data Only" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -254,6 +254,16 @@
         <object placeholder="mobile" placeholders="1" label="Yes/No" id="U6L3AmuIjdlOFIYLOf1O-4">
           <mxCell style="fontFamily=Tahoma;text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;" parent="MeSqUqDjV39xURzECte_-1" vertex="1">
             <mxGeometry x="1240" y="118" width="200" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Dynamic Content Mode:" tooltip="&lt;b&gt;fieldType:&lt;/b&gt; %fieldType%" placeholders="1" id="IPUEVnua3oA1jlcThNDc-10">
+          <mxCell style="fontFamily=Tahoma;text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MeSqUqDjV39xURzECte_-1">
+            <mxGeometry x="1080" y="160" width="160" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholder="dynamicContentMode" placeholders="1" label="Pending and Stored Data/Pending Data Only123123" id="IPUEVnua3oA1jlcThNDc-11">
+          <mxCell style="fontFamily=Tahoma;text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;" vertex="1" parent="MeSqUqDjV39xURzECte_-1">
+            <mxGeometry x="1240" y="156.5" width="200" height="40" as="geometry" />
           </mxCell>
         </object>
         <object label="" fieldType="Section" id="0dErxD7qmgPHcpw-KyX1-1">
