@@ -10,10 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     if: github.event.pull_request.merged == true
     steps:
-      - name: Replacements
-        uses: flcdrg/replace-multiple-action@latest
-        with:
-          files: './*.json'
-          find: '[{ "find": "devBranch", "replace": "main" }]'
-          prefix: ''
-          suffix: ''
+      - name: Replace config
+        run: |
+          find .-name "*" -exec sed -i 's/devBranch/main/' drawioConfig.json
