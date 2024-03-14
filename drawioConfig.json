@@ -2,7 +2,7 @@
   "version": "0.0.2",
   "defaultLibraries": [],
   "enabledLibraries": ["general","basic","arrows2","flowchart"],
-  "templateFile":"https://raw.githubusercontent.com/oxfordhealth/drawIO/dev/templates.xml",
+  "templateFile":"https://raw.githubusercontent.com/oxfordhealth/drawIO/main/templates.xml",
   "sidebarTitles":true,
   "libraries": [
     {
@@ -23,49 +23,49 @@
               "title": {
                 "main": "Clinical Code"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/dev/EMIS/FormControls/Clinical%20Code.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Clinical%20Code.xml"
             },
             {
               "title": {
                 "main": "Diary Entry"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/dev/EMIS/FormControls/Diary%20Entry.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Diary%20Entry.xml"
             },
             {
               "title": {
                 "main": "Predefined Text"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/dev/EMIS/FormControls/Predefined%20Text.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Predefined%20Text.xml"
             },
             {
               "title": {
                 "main": "Pick List"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/dev/EMIS/FormControls/Pick%20List.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Pick%20List.xml"
             },
             {
               "title": {
                 "main": "Multiselect"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/dev/EMIS/FormControls/Multiselect.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Multiselect.xml"
             },
             {
               "title": {
                 "main": "Text Information"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/dev/EMIS/FormControls/Text%20Information.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Text%20Information.xml"
             },
             {
               "title": {
                 "main": "Others"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/dev/EMIS/FormControls/Others.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Others.xml"
             },
             {
               "title": {
                 "main": "Pins"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/dev/Pins.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Pins.drawio"
             }
           ]
         },
@@ -82,13 +82,13 @@
               "title": {
                 "main": "Basic"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/dev/EMIS/FlowchartControls/Basic.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FlowchartControls/Basic.xml"
             },
             {
               "title": {
                 "main": "Pins"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/dev/Pins.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Pins.drawio"
             }
           ]
         },
