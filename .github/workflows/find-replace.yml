@@ -11,7 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     #if: github.event.pull_request.merged == true
     steps:
-<<<<<<< HEAD
       - name: checkout repo
         uses: actions/checkout@v4
       - name: Replace config strings
@@ -31,4 +30,3 @@ jobs:
           git add .
           git commit -m "update environment strings"
           git push
->>>>>>> adc4585e918a39594bf95be7fe405af5b1d26b83
