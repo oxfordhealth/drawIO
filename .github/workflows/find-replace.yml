@@ -15,5 +15,5 @@ jobs:
         uses: actions/checkout@v4
       - name: Test1
         run: ls
-      #- name: Replace config
-      #  run: sed -i 's/devBranch/main/' /drawioConfig.json;
+      - name: Replace config
+        run: sed -i 's/devBranch/main/' drawioConfig.json;
