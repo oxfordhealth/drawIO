@@ -1,15 +1,18 @@
 name: Find-Replace
 on:
-  push:
+  pull_request:
+    types:
+      - closed
     branches:
       - 'main'
-jobs:
+jobs: 
   build:
+    if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@main
       - name: Find and Replace
         uses: thiagodnf/string-replacer@v1.0.2
         with:
-          find: "oxfordhealth/drawIO/dev/"
-          replace: "oxfordhealth/drawIO/main/"
+          find: "oxfordhealth/drawIO/dev"
+          replace: "oxfordhealth/drawIO/main"
