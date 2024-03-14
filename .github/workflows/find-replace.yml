@@ -11,5 +11,5 @@ jobs:
       - name: Find and Replace
         uses: thiagodnf/string-replacer@v1.0.2
         with:
-          find: "https://raw.githubusercontent.com/oxfordhealth/drawIO/dev/"
-          replace: "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/"
+          find: "oxfordhealth/drawIO/dev/"
+          replace: "oxfordhealth/drawIO/main/"
