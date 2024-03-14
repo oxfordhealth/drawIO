@@ -15,5 +15,10 @@ jobs:
         uses: actions/checkout@v4
       - name: Test1
         run: ls
-      - name: Replace config
-        run: sed -i 's/devBranch/main/' drawioConfig.json;
+      - name: Replacements
+        uses: flcdrg/replace-multiple-action@v1
+        with:
+          files: '**/*.json'
+          find: '[{ "find": "devBranch", "replace": "main" }]'
+          prefix: ''
+          suffix: ''
