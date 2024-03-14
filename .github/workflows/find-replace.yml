@@ -15,7 +15,7 @@ jobs:
       - name: Replacements
         uses: flcdrg/replace-multiple-action@v1
         with:
-          files: '/*'
+          files: '/drawioConfig.json'
           find: '[{ "find": "devBranch", "replace": "${GITHUB_REF##*/}" }]'
           prefix: ''
           suffix: ''
