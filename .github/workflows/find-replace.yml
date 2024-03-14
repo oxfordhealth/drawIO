@@ -11,8 +11,6 @@ jobs:
     if: github.event.pull_request.merged == true
     steps:
       - name: Test
-        run: echo "Current Directory "$PWD
-      - name: Test2
-        run: echo "Current Directory "/
+        run: ls
       - name: Replace config
         run: sed -i 's/devBranch/main/' /drawioConfig.json;
