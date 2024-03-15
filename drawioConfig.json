@@ -23,7 +23,7 @@
               "title": {
                 "main": "Annotations"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/FormControls/Annotation.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Annotation.xml"
             },
             {
               "title": {
@@ -35,7 +35,7 @@
               "title": {
                 "main": "Code Browser"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/FormControls/Code%20Browser.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Code%20Browser.xml"
             },
             {
               "title": {
@@ -47,7 +47,7 @@
               "title": {
                 "main": "Multiselect"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/FormControls/Multiselect.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Multiselect.xml"
             },
             {
               "title": {
@@ -59,7 +59,7 @@
               "title": {
                 "main": "Predefined Text"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/FormControls/Predefined%20Text.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Predefined%20Text.xml"
             },
             {
               "title": {
