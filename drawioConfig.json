@@ -121,27 +121,51 @@
           "libs": [
             {
               "title": {
-                "main": "2x Column Field"
+                "main": "Client Data Fields"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Fields/Rio%202xColumn%20Form%20Fields.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Fields/Client Data Fields.drawio"
             },
             {
               "title": {
-                "main": "4x Column Field"
+                "main": "Date and Time Fields"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Fields/Rio%204xColumn%20Form%20Fields.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Fields/Date and Time Fields.drawio"
             },
             {
               "title": {
-                "main": "6x Column Field"
+                "main": "Number Fields"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Fields/Rio%206xColumn%20Form%20Fields.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Fields/Number Fields.drawio"
             },
             {
               "title": {
-                "main": "8x Column Field"
+                "main": "Others"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Fields/Rio%208xColumn%20Form%20Fields.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Fields/Other.drawio"
+            },
+            {
+              "title": {
+                "main": "Picklist or Search"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Fields/Picklist or Search.drawio"
+            },
+            {
+              "title": {
+                "main": "Text Fields"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Fields/Text Fields.drawio"
+            },
+            {
+              "title": {
+                "main": "Visual or Data Only"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Fields/Visual or Data Only.drawio"
+            },
+            {
+              "title": {
+                "main": "Yes/No Fields"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Fields/Yes_No Fields.drawio"
             },
             {
               "title": {
