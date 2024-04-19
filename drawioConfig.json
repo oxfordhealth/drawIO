@@ -2,7 +2,7 @@
   "version": "0.0.2",
   "defaultLibraries": [],
   "enabledLibraries": ["general","basic","arrows2","flowchart"],
-  "templateFile":"https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/templates.xml",
+  "templateFile":"https://raw.githubusercontent.com/oxfordhealth/drawIO/main/templates.xml",
   "sidebarTitles":true,
   "libraries": [
     {
@@ -29,7 +29,7 @@
               "title": {
                 "main": "Clinical Code"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/FormControls/Clinical%20Code.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Clinical%20Code.xml"
             },
             {
               "title": {
@@ -41,7 +41,7 @@
               "title": {
                 "main": "Diary Entry"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/FormControls/Diary%20Entry.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Diary%20Entry.xml"
             },
             {
               "title": {
@@ -53,7 +53,7 @@
               "title": {
                 "main": "Pick List"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/FormControls/Pick%20List.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Pick%20List.xml"
             },
             {
               "title": {
@@ -65,25 +65,25 @@
               "title": {
                 "main": "Text Information"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/FormControls/Text%20Information.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Text%20Information.xml"
             },
             {
               "title": {
                 "main": "Miscellaneous Fields"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/FormControls/Miscellaneous%20Fields.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Miscellaneous%20Fields.xml"
             },
             {
               "title": {
                 "main": "Others"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/FormControls/Others.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Others.xml"
             },
             {
               "title": {
                 "main": "Pins"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Pins.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Pins.drawio"
             }
           ]
         },
@@ -100,13 +100,13 @@
               "title": {
                 "main": "Basic"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/FlowchartControls/Basic.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FlowchartControls/Basic.xml"
             },
             {
               "title": {
                 "main": "Pins"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Pins.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Pins.drawio"
             }
           ]
         },
@@ -123,55 +123,55 @@
               "title": {
                 "main": "Client Data Fields"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Fields/Client Data Fields.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Rio/Fields/Client Data Fields.drawio"
             },
             {
               "title": {
                 "main": "Date and Time Fields"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Fields/Date and Time Fields.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Rio/Fields/Date and Time Fields.drawio"
             },
             {
               "title": {
                 "main": "Number Fields"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Fields/Number Fields.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Rio/Fields/Number Fields.drawio"
             },
             {
               "title": {
                 "main": "Others"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Fields/Other.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Rio/Fields/Other.drawio"
             },
             {
               "title": {
                 "main": "Picklist or Search"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Fields/Picklist or Search.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Rio/Fields/Picklist or Search.drawio"
             },
             {
               "title": {
                 "main": "Text Fields"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Fields/Text Fields.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Rio/Fields/Text Fields.drawio"
             },
             {
               "title": {
                 "main": "Visual or Data Only"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Fields/Visual or Data Only.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Rio/Fields/Visual or Data Only.drawio"
             },
             {
               "title": {
                 "main": "Yes/No Fields"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Fields/Yes_No Fields.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Rio/Fields/Yes_No Fields.drawio"
             },
             {
               "title": {
                 "main": "Pins"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Pins.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Pins.drawio"
             }
           ]
         },
@@ -198,7 +198,7 @@
               "title": {
                 "main": "Window Items"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Window%20Items.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Window%20Items.drawio"
             }
           ]
         }
