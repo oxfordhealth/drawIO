@@ -176,6 +176,23 @@
           ]
         },
         {
+          "id": "eobs",
+          "title": {
+            "main": "eObs Libraries"
+          },
+          "desc": {
+            "main": "Standard eObs Libraries"
+          },
+          "libs": [
+            {
+              "title": {
+                "main": "eObs Fields"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Fields/eObs Fields.drawio"
+            }
+          ]
+        },
+        {
           "id": "tc",
           "title": {
             "main": "True Colours Libraries"
