@@ -81,6 +81,12 @@
             },
             {
               "title": {
+                "main": "Annotation Images"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/FormControls/Annotations.xml"
+            },
+            {
+              "title": {
                 "main": "Pins"
               },
               "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Pins.drawio"
