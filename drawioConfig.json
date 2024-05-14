@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "defaultLibraries": [],
   "enabledLibraries": ["general","basic","arrows2","flowchart"],
-  "templateFile":"https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/templates.xml",
+  "templateFile":"https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Global/templates.xml",
   "sidebarTitles":true,
   "libraries": [
     {
@@ -89,7 +89,7 @@
               "title": {
                 "main": "Pins"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Pins.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Global/Libraries/Pins.drawio"
             }
           ]
         },
@@ -112,7 +112,7 @@
               "title": {
                 "main": "Pins"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Pins.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Global/Libraries/Pins.drawio"
             }
           ]
         },
@@ -177,7 +177,7 @@
               "title": {
                 "main": "Pins"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Pins.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Global/Libraries/Pins.drawio"
             }
           ]
         },
@@ -195,6 +195,12 @@
                 "main": "eObs Fields"
               },
               "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Libraries/eObs%20Fields.drawio"
+            },
+            {
+              "title": {
+                "main": "Pins"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Global/Libraries/Pins.drawio"
             }
           ]
         },
@@ -212,6 +218,12 @@
                 "main": "True Colours Fields"
               },
               "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/True%20Colours/Libraries/Fields.drawio"
+            },
+            {
+              "title": {
+                "main": "Pins"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Global/Libraries/Pins.drawio"
             }
           ]
         },
