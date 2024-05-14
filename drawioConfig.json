@@ -206,7 +206,14 @@
           "desc": {
             "main": "Standard True Colours Libraries"
           },
-          "libs": []
+          "libs": [
+            {
+              "title": {
+                "main": "True Colours Fields"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/True_Colours/Libraries/Fields.drawio"
+            }
+          ]
         },
         {
           "id": "windows",
