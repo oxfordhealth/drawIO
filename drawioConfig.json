@@ -2,7 +2,7 @@
   "version": "0.0.2",
   "defaultLibraries": [],
   "enabledLibraries": ["general","basic","arrows2","flowchart"],
-  "templateFile":"https://raw.githubusercontent.com/oxfordhealth/drawIO/main/templates.xml",
+  "templateFile":"https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/templates.xml",
   "sidebarTitles":true,
   "libraries": [
     {
