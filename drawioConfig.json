@@ -221,6 +221,24 @@
             },
             {
               "title": {
+                "main": "True Colours Tables & Table Fields"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/True%20Colours/Libraries/Tables%20and%20Fields.drawio"
+            },
+            {
+              "title": {
+                "main": "True Colours Visual Elements"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/True%20Colours/Libraries/Visual%20Elements.drawio"
+            },
+            {
+              "title": {
+                "main": "True Colours Others"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/True%20Colours/Libraries/Others.drawio"
+            },
+            {
+              "title": {
                 "main": "Pins"
               },
               "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Global/Libraries/Pins.drawio"
