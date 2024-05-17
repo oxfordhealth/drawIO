@@ -26,5 +26,12 @@
     "h": 70,
     "aspect": "fixed",
     "title": "Multi Select (Buttons Only)"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"245\" height=\"70\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"Copyright:\" style=\"text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"70\" height=\"70\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;object label=\"© Curtis Reet™&amp;amp;nbsp;\" id=\"4\"&gt;&lt;mxCell style=\"text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"70\" width=\"175\" height=\"70\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;mxCell id=\"5\" value=\"\" style=\"endArrow=none;html=1;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" edge=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"245\" y=\"70\" as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"70\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"6\" value=\"\" style=\"endArrow=none;html=1;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;\" edge=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"70\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 245,
+    "h": 70,
+    "aspect": "fixed",
+    "title": "Copyright"
   }
 ]</mxlibrary>
