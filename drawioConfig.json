@@ -81,12 +81,6 @@
             },
             {
               "title": {
-                "main": "Annotation Images"
-              },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/Libraries/Annotations.drawio"
-            },
-            {
-              "title": {
                 "main": "Pins"
               },
               "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Global/Libraries/Pins.drawio"
@@ -121,7 +115,7 @@
           "libs": [
             {
               "title": {
-                "main": "Annotation Images"
+                "main": "Common Components"
               },
               "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/Libraries/Common%20Components.drawio"
             }
