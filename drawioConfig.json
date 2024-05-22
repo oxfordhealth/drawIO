@@ -94,6 +94,40 @@
           ]
         },
         {
+          "id": "emis-form-annotations",
+          "title": {
+            "main": "EMIS Annotations Libraries"
+          },
+          "desc": {
+            "main": "Annotations for EMIS Forms Library"
+          },
+          "libs": [
+            {
+              "title": {
+                "main": "Annotation Images"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/Libraries/Annotations.drawio"
+            }
+          ]
+        },
+        {
+          "id": "emis-form-extras",
+          "title": {
+            "main": "Extra EMIS Libraries"
+          },
+          "desc": {
+            "main": "Extra Libraries for EMIS Forms"
+          },
+          "libs": [
+            {
+              "title": {
+                "main": "Annotation Images"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/Libraries/Common%20Components.drawio"
+            }
+          ]
+        },
+        {
           "id": "emis-protocol",
           "title": {
             "main": "EMIS Protocol/Concept Libraries"
