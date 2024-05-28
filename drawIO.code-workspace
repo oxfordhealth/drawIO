@@ -1,0 +1,133 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "todo-tree.regex.regex": "((\\*|//|#|--|<!--|;|/\\*|^)\\s*($TAGS)|^\\s*- \\[ \\])",
+        "todo-tree.general.statusBar": "tags",
+        "todo-tree.tree.scanMode": "open files",
+        "todo-tree.regex.enableMultiLine": true,
+        "todo-tree.general.tags": [
+            "BUG",
+            "FIXME",
+            "FIX",
+            "Fixes",
+            "TODO",
+            "@todo",
+            "TO-DO",
+            "To Complete",
+            "TRANSFORM",
+            "TF",
+            "For Transformation",
+            "GOLIVE",
+            "GL",
+            "For Go Live",
+            "@bug",
+            "Clean",
+            "CLEAN",
+            "CL",
+            "@clean",
+            "Consider",
+            "MAYBE",
+            "CONSIDER"
+        ],
+        "todo-tree.general.tagGroups": {
+            "Fixes": ["FIX", "FIXME", "BUG", "@bug"],
+            "To Complete": ["TODO", "@todo"],
+            "For Transformation": ["TRANSFORM", "TF"],
+            "For Go Live": ["GOLIVE", "GL"],
+            "Clean" :["CLEAN", "CL", "@clean"],
+            "Consider" :["MAYBE", "CONSIDER"],
+        },
+        "todo-tree.highlights.useColourScheme": true,
+        "todo-tree.highlights.customHighlight": {
+            "Fixes": {
+                "foreground": "white",
+                "background": "red",
+                "iconColour": "red",
+                "icon": "flame"
+            },
+            "To Complete": {
+                "foreground": "black",
+                "background": "orange",
+                "iconColour": "orange",
+                "icon": "check"
+            },
+            "For Transformation": {
+                "foreground": "white",
+                "background": "#5533FF",
+                "iconColour": "#5533FF",
+                "icon": "comment-discussion"
+            },
+            "For Go Live": {
+                "foreground": "white",
+                "background": "green",
+                "iconColour": "green",
+                "icon": "tools"
+            },
+            "Consider": {
+                "foreground": "white",
+                "background": "purple",
+                "iconColour": "purple",
+                "icon": "question"
+            },
+            "Clean": {
+                "foreground": "black",
+                "background": "white",
+                "iconColour": "white",
+                "icon": "north-star"
+            }
+        },
+        "problems.showCurrentInStatus": true,
+        "codemetrics.basics.ComplexityLevelExtremeDescription": "which is extremely high, must reduce",
+        "codemetrics.basics.ComplexityLevelHighDescription": "which is high, should reduce",
+        "codemetrics.basics.ComplexityLevelLowDescription": "which is acceptable",
+        "codemetrics.basics.ComplexityLevelNormalDescription": "which is starting to get high, look at reducing",
+        "codemetrics.basics.DecorationTemplate": "<svg xmlns='http://www.w3.org/2000/svg' width='{{size}}px' height='{{size}}px' viewbox='0 0 {{size}} {{size}}'><polygon points=\"0,0 0,{{size}} {{size}},0\" style='fill:{{color}};stroke-width:1;stroke:#fff' /></svg>",
+        "codemetrics.basics.ComplexityLevelNormal": 10,
+        "codemetrics.basics.ComplexityLevelHigh": 20,
+        "codemetrics.basics.ComplexityLevelExtreme": 50,
+        "codemetrics.basics.CodeLensHiddenUnder": 5,
+        "codemetrics.nodeconfiguration.CaseClause": 2,
+        "codemetrics.nodeconfiguration.BreakStatement": -1,
+        "eslint.experimental.useFlatConfig": true,
+        "jsdoc-generator.dateFormat": "DD/MM/YYYY",
+        "codemetrics.nodeconfiguration.ReturnStatement": 0,
+        "liveServer.settings.port": 9001,
+        "jsdoc-generator.descriptionPlaceholder": "Enter description here.",
+        "editor.rulers": [80],
+    },
+    // cSpell:ignore dbaeumer nhoizey gruntfuggly esbenp mtxr sqltools hookyqr
+    // cSpell:ignore bajdzis, ukoloff, kisstkondoros, codemetrics, mutsuntsai
+    // cSpell:ignore ritwickdey, liveserver, stkb
+    "extensions": {
+        "recommendations": [
+            "dbaeumer.vscode-eslint",
+            "streetsidesoftware.code-spell-checker",
+            "nhoizey.gremlins",
+            "streetsidesoftware.code-spell-checker-medical-terms",
+            "gruntfuggly.todo-tree",
+            "ukoloff.win-ca",
+            "ctf0.auto-comment-next-line",
+            "kisstkondoros.vscode-codemetrics",
+            "crystal-spider.jsdoc-generator",
+            "mutsuntsai.jsdoc-link",
+            "ritwickdey.liveserver",
+            "stkb.rewrap",
+            "thqby.vscode-autohotkey2-lsp"
+        ],
+        "unwantedRecommendations": [
+            "esbenp.prettier-vscode",
+            "dbaeumer.jshint",
+            "github.vscode-pull-request-github",
+            "mtxr.sqltools",
+            "hookyqr.beautify",
+            "ms-mssql.mssql",
+            "bajdzis.vscode-database",
+            "christian-kohler.npm-intellisense",
+            "golang.go"
+        ]
+    }
+}

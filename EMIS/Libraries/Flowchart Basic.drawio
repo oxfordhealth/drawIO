@@ -1,0 +1,23 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"Alert Title\" fieldType=\"Alert\" id=\"2\"&gt;&lt;mxCell style=\"swimlane;whiteSpace=wrap;html=1;startSize=60;align=center;fillColor=#f8cecc;strokeColor=#FF0000;strokeWidth=3;swimlaneBody=1;absoluteArcSize=0;horizontal=1;separatorColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"150\" as=\"geometry\"&gt;&lt;mxRectangle x=\"240\" y=\"300\" width=\"120\" height=\"60\" as=\"alternateBounds\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;object label=\"Detailed text\" fieldType=\"Alert\" id=\"3\"&gt;&lt;mxCell style=\"text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"60\" width=\"120\" height=\"90\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 119.99999999999999,
+    "h": 150,
+    "aspect": "fixed",
+    "title": "Alert"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"START/END\" fieldType=\"Terminator\" id=\"2\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffe6cc;strokeColor=#d79b00;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 119.99999999999999,
+    "h": 59.99999999999999,
+    "aspect": "fixed",
+    "title": "Terminator"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry y=\"-1.1368683772161603e-13\" width=\"180\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;object label=\"Conditional Logic\" fieldType=\"Decision\" id=\"3\"&gt;&lt;mxCell style=\"shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.2;noLabel=0;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.1,0,0,0,0],[0.1,1,0,0,0],[0.2,0,0,0,0],[0.2,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.8,0,0,0,0],[0.8,1,0,0,0],[0.9,0,0,0,0],[0.9,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"180\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;object label=\"True\" fieldType=\"Decision\" id=\"4\"&gt;&lt;mxCell style=\"text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;direction=west;rotation=180;fillColor=#d5e8d4;strokeColor=#82b366;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"36\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;object label=\"False\" fieldType=\"Decision\" id=\"5\"&gt;&lt;mxCell style=\"text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;flipH=1;flipV=0;rotation=180;fillColor=#f8cecc;strokeColor=#b85450;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"144\" width=\"36\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 180,
+    "h": 59.99999999999999,
+    "aspect": "fixed",
+    "title": "Decision"
+  }
+]</mxlibrary>

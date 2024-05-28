@@ -1,8 +1,8 @@
 {
-  "version": "0.0.2",
+  "version": "3.0.0",
   "defaultLibraries": [],
   "enabledLibraries": ["general","basic","arrows2","flowchart"],
-  "templateFile":"https://raw.githubusercontent.com/oxfordhealth/drawIO/main/templates.xml",
+  "templateFile":"https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Global/templates.xml",
   "sidebarTitles":true,
   "libraries": [
     {
@@ -23,67 +23,101 @@
               "title": {
                 "main": "Annotations"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Annotation.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/Libraries/Annotation.drawio"
             },
             {
               "title": {
                 "main": "Clinical Code"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Clinical%20Code.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/Libraries/Clinical%20Code.drawio"
             },
             {
               "title": {
                 "main": "Code Browser"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Code%20Browser.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/Libraries/Code%20Browser.drawio"
             },
             {
               "title": {
                 "main": "Diary Entry"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Diary%20Entry.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/Libraries/Diary%20Entry.drawio"
             },
             {
               "title": {
                 "main": "Multiselect"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Multiselect.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/Libraries/Multiselect.drawio"
             },
             {
               "title": {
                 "main": "Pick List"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Pick%20List.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/Libraries/Pick%20List.drawio"
             },
             {
               "title": {
                 "main": "Predefined Text"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Predefined%20Text.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/Libraries/Predefined%20Text.drawio"
             },
             {
               "title": {
                 "main": "Text Information"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Text%20Information.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/Libraries/Text%20Information.drawio"
             },
             {
               "title": {
                 "main": "Miscellaneous Fields"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Miscellaneous%20Fields.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/Libraries/Miscellaneous%20Fields.drawio"
             },
             {
               "title": {
                 "main": "Others"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FormControls/Others.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/Libraries/Others.drawio"
             },
             {
               "title": {
                 "main": "Pins"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Pins.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Global/Libraries/Pins.drawio"
+            }
+          ]
+        },
+        {
+          "id": "emis-form-annotations",
+          "title": {
+            "main": "EMIS Annotations Libraries"
+          },
+          "desc": {
+            "main": "Annotations for EMIS Forms Library"
+          },
+          "libs": [
+            {
+              "title": {
+                "main": "Annotation Images"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/Libraries/Annotations.drawio"
+            }
+          ]
+        },
+        {
+          "id": "emis-form-extras",
+          "title": {
+            "main": "Extra EMIS Libraries"
+          },
+          "desc": {
+            "main": "Extra Libraries for EMIS Forms"
+          },
+          "libs": [
+            {
+              "title": {
+                "main": "Common Components"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/Libraries/Common%20Components.drawio"
             }
           ]
         },
@@ -100,13 +134,13 @@
               "title": {
                 "main": "Basic"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/EMIS/FlowchartControls/Basic.xml"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/EMIS/Libraries/Flowchart%20Basic.drawio"
             },
             {
               "title": {
                 "main": "Pins"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Pins.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Global/Libraries/Pins.drawio"
             }
           ]
         },
@@ -123,55 +157,55 @@
               "title": {
                 "main": "Client Data Fields"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Rio/Fields/Client Data Fields.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Libraries/Client%20Data%20Fields.drawio"
             },
             {
               "title": {
                 "main": "Date and Time Fields"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Rio/Fields/Date and Time Fields.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Libraries/Date%20and%20Time%20Fields.drawio"
             },
             {
               "title": {
                 "main": "Number Fields"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Rio/Fields/Number Fields.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Libraries/Number%20Fields.drawio"
             },
             {
               "title": {
                 "main": "Others"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Rio/Fields/Other.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Libraries/Other.drawio"
             },
             {
               "title": {
                 "main": "Picklist or Search"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Rio/Fields/Picklist or Search.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Libraries/Picklist%20or%20Search.drawio"
             },
             {
               "title": {
                 "main": "Text Fields"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Rio/Fields/Text Fields.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Libraries/Text%20Fields.drawio"
             },
             {
               "title": {
                 "main": "Visual or Data Only"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Rio/Fields/Visual or Data Only.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Libraries/Visual%20or%20Data%20Only.drawio"
             },
             {
               "title": {
                 "main": "Yes/No Fields"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Rio/Fields/Yes_No Fields.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Libraries/Yes_No%20Fields.drawio"
             },
             {
               "title": {
                 "main": "Pins"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Pins.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Global/Libraries/Pins.drawio"
             }
           ]
         },
@@ -188,7 +222,13 @@
               "title": {
                 "main": "eObs Fields"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Rio/Fields/eObs Fields.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Rio/Libraries/eObs%20Fields.drawio"
+            },
+            {
+              "title": {
+                "main": "Pins"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Global/Libraries/Pins.drawio"
             }
           ]
         },
@@ -198,9 +238,40 @@
             "main": "True Colours Libraries"
           },
           "desc": {
-            "main": "Standard True Colours Libraries"
+            "main": "Standard True Colours Libraries\r\n\r\nHelp guides for this library can be found at:\r\nhttps://oxfordhealth.atlassian.net/wiki/x/NIBYH"
           },
-          "libs": []
+          "libs": [
+            {
+              "title": {
+                "main": "True Colours Fields"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/True%20Colours/Libraries/Fields.drawio"
+            },
+            {
+              "title": {
+                "main": "True Colours Tables & Table Fields"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/True%20Colours/Libraries/Tables%20and%20Fields.drawio"
+            },
+            {
+              "title": {
+                "main": "True Colours Visual Elements"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/True%20Colours/Libraries/Visual%20Elements.drawio"
+            },
+            {
+              "title": {
+                "main": "True Colours Others"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/True%20Colours/Libraries/Others.drawio"
+            },
+            {
+              "title": {
+                "main": "Pins"
+              },
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Global/Libraries/Pins.drawio"
+            }
+          ]
         },
         {
           "id": "windows",
@@ -215,7 +286,7 @@
               "title": {
                 "main": "Window Items"
               },
-              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/main/Window%20Items.drawio"
+              "url": "https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Window%20Items.drawio"
             }
           ]
         }
