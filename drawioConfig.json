@@ -238,7 +238,7 @@
             "main": "True Colours Libraries"
           },
           "desc": {
-            "main": "Standard True Colours Libraries"
+            "main": "Standard True Colours Libraries\r\n\r\nHelp guides for this library can be found at:\r\nhttps://oxfordhealth.atlassian.net/wiki/x/NIBYH"
           },
           "libs": [
             {
