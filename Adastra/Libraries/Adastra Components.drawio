@@ -5,5 +5,12 @@
     "h": 80,
     "aspect": "fixed",
     "title": "Selection"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"\" fieldType=\"Yes/No Checkbox\" id=\"2\"&gt;&lt;mxCell style=\"fontFamily=Tahoma;group;recursiveResize=0;fillColor=#CFDDEE;\" fieldType=\"Pick List\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"939\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;object label=\"Yes/No Checkbox\" tooltip=\"&amp;lt;b&amp;gt;fieldType:&amp;lt;/b&amp;gt; %fieldType%\" placeholders=\"1\" id=\"3\"&gt;&lt;mxCell style=\"fontFamily=Helvetica;text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#485fab;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"7\" width=\"220\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;object label=\"\" tooltip=\"&amp;lt;b&amp;gt;fieldType:&amp;lt;/b&amp;gt; %fieldType%\" placeholders=\"1\" id=\"4\"&gt;&lt;mxCell style=\"strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"455\" y=\"15\" width=\"10\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 939,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Yes No Tickbox"
   }
 ]</mxlibrary>
