@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="Page-1" id="YSzfWiJkTcqVzJzmtQcH">
-    <mxGraphModel dx="2026" dy="1117" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1280" pageHeight="5000" background="#d1e0ee" math="0" shadow="0">
+    <mxGraphModel dx="1397" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1280" pageHeight="5000" background="#d1e0ee" math="0" shadow="0">
       <root>
         <object label="" formName="Adastra Template" transformer="Curtis Reet" id="0">
           <mxCell />
@@ -225,7 +225,7 @@
           <mxGeometry x="10" width="940" height="40" as="geometry" />
         </mxCell>
         <object label="&lt;div&gt;&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 14px;&quot;&gt;Time of incident&lt;/font&gt;&lt;/div&gt;" tooltip="&lt;b&gt;fieldType:&lt;/b&gt; %fieldType%" placeholders="1" id="V5l7xqbYga4Lv0CrcqgJ-27">
-          <mxCell style="fontFamily=Helvetica;text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#485fab;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;" vertex="1" parent="V5l7xqbYga4Lv0CrcqgJ-25">
+          <mxCell style="fontFamily=Helvetica;text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#485fab;editable=1;movable=0;resizable=0;rotatable=1;deletable=0;locked=0;connectable=1;" vertex="1" parent="V5l7xqbYga4Lv0CrcqgJ-25">
             <mxGeometry x="17" width="433" height="40" as="geometry" />
           </mxCell>
         </object>
@@ -260,6 +260,17 @@
             </mxGeometry>
           </mxCell>
         </object>
+        <object label="" fieldType="Yes/No Checkbox" id="V5l7xqbYga4Lv0CrcqgJ-47">
+          <mxCell style="fontFamily=Tahoma;group;recursiveResize=0;fillColor=#bdd0e8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" fieldType="Pick List" vertex="1" connectable="0" parent="1">
+            <mxGeometry y="520.0000000000001" width="960" height="20" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="V5l7xqbYga4Lv0CrcqgJ-48" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cfddee;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="V5l7xqbYga4Lv0CrcqgJ-47">
+          <mxGeometry x="10" width="940" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V5l7xqbYga4Lv0CrcqgJ-51" value="&lt;h3&gt;&lt;font size=&quot;1&quot; face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Heading&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;strokeColor=none;rotatable=0;deletable=0;movable=0;resizable=0;" vertex="1" parent="V5l7xqbYga4Lv0CrcqgJ-47">
+          <mxGeometry x="17" width="126" height="17" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
