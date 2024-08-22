@@ -10,73 +10,60 @@
         "todo-tree.tree.scanMode": "open files",
         "todo-tree.regex.enableMultiLine": true,
         "todo-tree.general.tags": [
-            "BUG",
-            "FIXME",
-            "FIX",
             "Fixes",
-            "TODO",
-            "@todo",
-            "TO-DO",
-            "To Complete",
-            "TRANSFORM",
-            "TF",
-            "For Transformation",
-            "GOLIVE",
-            "GL",
-            "For Go Live",
+            "BUG",
             "@bug",
+            "To Complete",
+            "TODO",
+            "TO-DO",
+            "@todo",
+            "Peer Review",
+            "PEER",
+            "@peer",
             "Clean",
             "CLEAN",
-            "CL",
             "@clean",
             "Consider",
             "MAYBE",
-            "CONSIDER"
+            "@maybe"
         ],
         "todo-tree.general.tagGroups": {
-            "Fixes": ["FIX", "FIXME", "BUG", "@bug"],
-            "To Complete": ["TODO", "@todo"],
-            "For Transformation": ["TRANSFORM", "TF"],
-            "For Go Live": ["GOLIVE", "GL"],
-            "Clean" :["CLEAN", "CL", "@clean"],
-            "Consider" :["MAYBE", "CONSIDER"],
+            "Fixes": ["BUG", "@bug"],
+            "To Complete": ["TODO", "TO-DO", "@todo"],
+            "Peer Review": ["PEER", "@peer"],
+            "Clean" :["CLEAN", "@clean"],
+            "Consider" :["MAYBE", "@maybe"],
         },
         "todo-tree.highlights.useColourScheme": true,
         "todo-tree.highlights.customHighlight": {
             "Fixes": {
-                "foreground": "white",
-                "background": "red",
-                "iconColour": "red",
+                "foreground": "#FFF",
+                "background": "#F00",
+                "iconColour": "#F00",
                 "icon": "flame"
             },
             "To Complete": {
-                "foreground": "black",
-                "background": "orange",
-                "iconColour": "orange",
+                "foreground": "#000",
+                "background": "#FA0",
+                "iconColour": "#FA0",
                 "icon": "check"
             },
-            "For Transformation": {
-                "foreground": "white",
-                "background": "#5533FF",
-                "iconColour": "#5533FF",
-                "icon": "comment-discussion"
-            },
-            "For Go Live": {
-                "foreground": "white",
-                "background": "green",
-                "iconColour": "green",
-                "icon": "tools"
+            "Peer Review": {
+                "foreground": "#FFF",
+                "background": "#53F",
+                "iconColour": "#53F",
+                "icon": "people"
             },
             "Consider": {
-                "foreground": "white",
-                "background": "purple",
-                "iconColour": "purple",
+                "foreground": "#FFF",
+                "background": "#A2F",
+                "iconColour": "#A2F",
                 "icon": "question"
             },
             "Clean": {
-                "foreground": "black",
-                "background": "white",
-                "iconColour": "white",
+                "foreground": "#000",
+                "background": "#FFF",
+                "iconColour": "#FFF",
                 "icon": "north-star"
             }
         },
@@ -92,7 +79,6 @@
         "codemetrics.basics.CodeLensHiddenUnder": 5,
         "codemetrics.nodeconfiguration.CaseClause": 2,
         "codemetrics.nodeconfiguration.BreakStatement": -1,
-        "eslint.experimental.useFlatConfig": true,
         "jsdoc-generator.dateFormat": "DD/MM/YYYY",
         "codemetrics.nodeconfiguration.ReturnStatement": 0,
         "liveServer.settings.port": 9001,
