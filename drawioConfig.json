@@ -1,5 +1,5 @@
 {
-  "version": "4.0.1",
+  "version": "4.1.0",
   "defaultLibraries": [],
   "enabledLibraries": ["general","basic","arrows2","flowchart"],
   "templateFile":"https://raw.githubusercontent.com/oxfordhealth/drawIO/devBranch/Global/templates.xml",
