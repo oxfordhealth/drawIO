@@ -497,7 +497,7 @@
           <mxGeometry x="175" y="208" width="798" height="474.75" as="geometry" />
         </mxCell>
         <mxCell id="ykDfLDdG-GmuAA9Jnbjk-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Score Category&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="ykDfLDdG-GmuAA9Jnbjk-0">
-          <mxGeometry x="8" width="315" height="34.74" as="geometry" />
+          <mxGeometry x="1" width="315" height="34.74" as="geometry" />
         </mxCell>
         <mxCell id="ykDfLDdG-GmuAA9Jnbjk-2" value="" style="group" vertex="1" connectable="0" parent="ykDfLDdG-GmuAA9Jnbjk-0">
           <mxGeometry x="303" y="45" width="486" height="40.799999999999955" as="geometry" />
